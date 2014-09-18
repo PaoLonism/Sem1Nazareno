@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# EqelaTaskListNazareno
+#
+
+projectname: EqelaTaskListNazareno
+vendorid: com.pao.eqelatasklist
+mainmodule: com.pao.eqelatasklist.eqelatasklistnazareno
